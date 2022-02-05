@@ -1,0 +1,25 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+.heading{
+    width: 95%;
+    height: 50px;
+    margin: 5px;
+    box-shadow: 5px, 5px, 5px, grey; 
+
+}
+.copy_right_footer{
+    position:fixed;
+    margin-top: 580px;
+    color: white;
+    background-color: gray;
+    text-align: center;
+    width: 100%;
+}
+canvas{
+    box-shadow: 5px, 5px, 5px, gray;
+    border-radius: 15px;
+    border: 1px, solid, white;
+    background-color: gray;
+}
